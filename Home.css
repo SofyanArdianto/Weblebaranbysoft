@@ -595,6 +595,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  object-position: 50% 4.35%;
   margin: -184px auto 0 -22px;
 }
 
